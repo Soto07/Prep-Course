@@ -1,0 +1,17 @@
+h1{
+    color: cyan;
+}
+img{
+    width: 400px;             
+}
+#thirDiv{
+    height: 800;
+    width: 500;
+    background-color: lightsteelblue;
+    padding: 50px;
+    border: 5px solid rgb(244, 248, 0)
+}
+#spanId{
+    font-size: 18px;
+    margin: 180px;
+}
