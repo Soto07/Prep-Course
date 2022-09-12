@@ -7,7 +7,39 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
+    display: block;
+    text-align: center;
 
+}
+
+#ejercicioDos {
+    display: none;
+
+}
+
+#ejercicioTres {   
+     position: absolute;
+    left: 200px;
+    top: 99px;
+
+}
+#ejercicioCuatro{
+    display: block;
+    width: 100vw;
+    height: 70px;
+    background-color: #3574d2;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+#ejercicioCinco {
+    height: 100%;
+    padding: 0 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: row-reverse;
 }
 
 
